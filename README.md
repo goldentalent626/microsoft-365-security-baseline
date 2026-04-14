@@ -265,11 +265,22 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
+## Professional IT Security Services
+
+Need expert help securing your Microsoft 365 tenant? **Petronella Technology Group** provides:
+
+- [Managed IT Services](https://petronellatech.com/managed-it-services/) - 24/7 monitoring and management
+- [Cybersecurity Assessments](https://petronellatech.com/cybersecurity-assessment/) - Comprehensive security audits
+- [Network Security](https://petronellatech.com/cybersecurity/network-security/) - Firewall, IDS/IPS, segmentation
+- [AI-Powered Security](https://petronellatech.com/ai/ai-services/) - Next-gen threat detection
+
+**Petronella Technology Group** is a CMMC-RP certified cybersecurity firm in Raleigh, NC. [Contact us](https://petronellatech.com/contact-us/) or call (919) 348-4912.
+
 ## About Petronella Technology Group
 
 This baseline is maintained by [Petronella Technology Group, Inc.](https://www.petronellatech.com/) -- a cybersecurity and IT services firm specializing in Microsoft 365 security, compliance (CMMC, HIPAA, SOC 2, NIST), and managed IT for businesses across the United States.
 
 - Website: [https://www.petronellatech.com](https://www.petronellatech.com/)
 - Book a consultation: [https://book.petronella.ai](https://book.petronella.ai/)
-- Phone: [(919) 830-9435](tel:9198309435)
+- Phone: [(919) 348-4912](tel:9193484912)
 - LinkedIn: [Petronella Technology Group](https://www.linkedin.com/company/petronella-computer-consultants-inc-)
